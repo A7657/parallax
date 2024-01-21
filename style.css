@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parallax {
+
+    background-image: url("./images/background3.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.parallax2{
+  height:500px;
+  background-color:green;
+  font-size:24px;
+}
+.parallax3{
+    background-image: url("./images/background4.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
